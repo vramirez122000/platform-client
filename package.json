@@ -125,7 +125,7 @@
     "ushahidi-platform-pattern-library": "3.11.0-rc.1"
   },
   "engines": {
-    "node": ">=4.0"
+    "node": "4.9.1"
   },
   "greenkeeper": {
     "ignore": [
