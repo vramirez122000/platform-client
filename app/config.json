@@ -1,10 +1,10 @@
 
 {
-	client_id: "ushahidiui",
-	client_secret: "35e7f0bca957836d05ca0492211b0ac707671261",
-	backend_url: "",
-	google_analytics_id: "",
-	intercom_app_id: "",
-	mapbox_api_key: "",
-	raven_url: ""
+	"client_id": "ushahidiui",
+	"client_secret": "35e7f0bca957836d05ca0492211b0ac707671261",
+	"backend_url": "",
+	"google_analytics_id": "",
+	"intercom_app_id": "",
+	"mapbox_api_key": "",
+	"raven_url": ""
 }
